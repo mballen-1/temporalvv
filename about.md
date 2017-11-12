@@ -15,4 +15,4 @@ You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://gi
 
 In a word: **Awesome!**
 
-See the [Home page](/temporalvv/README.md)
+See the [Home page](/README.md)
